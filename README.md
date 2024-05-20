@@ -37,8 +37,8 @@ This tutorial outlines the post-install configuration of the open-source help de
           b. Registration Required: Require registration and login to create tickets 
         Configure Agents (workers)
           a. Admin Panel -> Agents -> Add New
-                  Jane
-                  John
+              i.   Jane
+             ii.   John
         Configure Users (customers)
           a.  Agent Panel -> Users -> Add New
                i.   Karen
@@ -49,11 +49,11 @@ This tutorial outlines the post-install configuration of the open-source help de
               ii.   Sev-B (4 hours, 24/7)
              iii.   Sev-C (8 hours, business hours)
         Configure Help Topics
-          a. Admin Panel -> Manage -> Help Topics
-              i.   Business Critical Outage
-             ii.   Personal Computer Issues
-            iii.   Equipment Request
-           iiii.   Password Reset
+          a.  Admin Panel -> Manage -> Help Topics
+               i.   Business Critical Outage
+              ii.   Personal Computer Issues
+             iii.   Equipment Request
+            iiii.   Password Reset
 
 
 
