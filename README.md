@@ -24,14 +24,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
         Configure Roles
           a. Admin Panel -> Agents -> Roles
-          b  Supreme Admin
+          b. Supreme Admin
         Configure Departments
           a. Admin Panel -> Agents -> Departments
           b. System Administrators
         Configure Teams
           a. Admin Panel -> Agents -> Teams
-              Level I Support
-              Level II Support
+              i.   Level I Support
+             ii.   Level II Support
         Allow anyone to create tickets
           a. Admin Panel -> Settings -> User Settings
           b. Registration Required: Require registration and login to create tickets 
@@ -40,14 +40,14 @@ This tutorial outlines the post-install configuration of the open-source help de
                   Jane
                   John
         Configure Users (customers)
-          Agent Panel -> Users -> Add New
-           Karen
-           Ken
+          a.  Agent Panel -> Users -> Add New
+               i.   Karen
+              ii.   Ken
         Configure SLA
-          a. Admin Panel -> Manage -> SLA
-              i.   Sev-A (1 hour, 24/7)
-             ii.   Sev-B (4 hours, 24/7)
-            iii    Sev-C (8 hours, business hours)
+          a.  Admin Panel -> Manage -> SLA
+               i.   Sev-A (1 hour, 24/7)
+              ii.   Sev-B (4 hours, 24/7)
+             iii.   Sev-C (8 hours, business hours)
         Configure Help Topics
           a. Admin Panel -> Manage -> Help Topics
               i.   Business Critical Outage
