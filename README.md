@@ -16,7 +16,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 - <h2>Microsoft Azure (Virtual Machines/Compute)
  ![Screenshot 2024-05-25 162102](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/4a6602eb-08fb-4579-92db-9effa88e2c6e)
 
-- <h2>Microsoft Azure (Virtual Machines/Compute)
+- <h2>Remote Desktop
+![Screenshot 2024-05-25 162518](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/294cbfe3-9daa-40b2-8565-53555a92e65d)
+
 - Internet Information Services (IIS) 
 
 <h2>Operating Systems Used </h2>
