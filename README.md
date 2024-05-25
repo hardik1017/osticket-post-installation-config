@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Operating Systems Used </h2>
 
 - <h2>Windows 10</b> (21H2)
-  ![Screenshot 2024-05-25 183223](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/1e87bc76-a447-42d8-a23e-ec59f2766a5f)
+ ![Screenshot 2024-05-25 183223](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/1e87bc76-a447-42d8-a23e-ec59f2766a5f)
 
 <h2>Post-Install Configuration Objectives</h2>
 
