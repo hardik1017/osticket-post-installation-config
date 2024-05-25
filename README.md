@@ -11,9 +11,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 - ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
+![Screenshot 2024-05-25 162102](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/b0910745-00a8-4216-9b1a-fbe1fe9c64f9)
 
 
-- <h2>Microsoft Azure (Virtual Machines/Compute) [Screenshot 2024-05-25 162102](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/500cbe0b-f660-4831-ab07-69d274bc43f9)
+- <h2>Microsoft Azure (Virtual Machines/Compute) 
   
 - <h2>Microsoft Azure (Virtual Machines/Compute)
 - Internet Information Services (IIS) 
