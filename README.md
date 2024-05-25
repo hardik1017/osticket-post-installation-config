@@ -17,7 +17,7 @@ This tutorial outlines the post-install configuration of the open-source help de
  ![Screenshot 2024-05-25 162102](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/4a6602eb-08fb-4579-92db-9effa88e2c6e)
 
 - <h2>Remote Desktop
-![Screenshot 2024-05-25 162518](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/294cbfe3-9daa-40b2-8565-53555a92e65d)
+![Screenshot 2024-05-25 183916](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/622e12c0-9911-41a8-ad28-1cce13e81d25)
 
 - <h2>Internet Information Services (IIS) 
 ![Screenshot 2024-05-25 182940](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/d9dc366b-beaa-4cc7-9b97-f1ba9d7ec623)
