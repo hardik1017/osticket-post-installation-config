@@ -13,7 +13,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Environments and Technologies Used</h2>
 
 
-- <h2>Microsoft Azure (Virtual Machines/Compute) ![Screenshot 2024-05-25 162102](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/500cbe0b-f660-4831-ab07-69d274bc43f9)
+- <h2>Microsoft Azure (Virtual Machines/Compute)![Screenshot 2024-05-25 162102](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/500cbe0b-f660-4831-ab07-69d274bc43f9)
   <p>
 - <h2>Microsoft Azure (Virtual Machines/Compute)
 - Internet Information Services (IIS) 
