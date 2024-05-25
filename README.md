@@ -19,7 +19,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - <h2>Remote Desktop
 ![Screenshot 2024-05-25 162518](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/294cbfe3-9daa-40b2-8565-53555a92e65d)
 
-- Internet Information Services (IIS) 
+- <h2>Internet Information Services (IIS) 
 ![Screenshot 2024-05-25 182940](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/d9dc366b-beaa-4cc7-9b97-f1ba9d7ec623)
 
 <h2>Operating Systems Used </h2>
