@@ -90,7 +90,10 @@ After switching to the Admin Panel, you’ll see the same button allows you to s
 
 Stay on the Admin Panel and click on the Agents Tab.
 
+
 <p>
+
+![Screenshot 2024-05-25 193131](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/bbd5c4a2-cb86-420b-9c2e-7fd9e21103b0)
 
 
 Click on Roles.
