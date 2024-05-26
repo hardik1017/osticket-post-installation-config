@@ -70,9 +70,13 @@ This tutorial outlines the post-install configuration of the open-source help de
  
 ![Screenshot 2024-05-25 190507](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/c5cb80e8-7eee-4410-9912-ee565206d505)
 
-
+<p>
 
 Login as User Admin. Notice on the top right there’s an Admin Panel button. Click on it to switch into the Admin Panel.
+
+<p>
+
+![Screenshot 2024-05-25 190631](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/475a85f8-5929-4758-a3ea-90b57e073aae)
 
 
 After switching to the Admin Panel, you’ll see the same button allows you to switch back to Agent Panel.
