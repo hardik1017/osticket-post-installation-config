@@ -78,74 +78,128 @@ Login as User Admin. Notice on the top right there’s an Admin Panel button. Cl
 
 ![Screenshot 2024-05-25 190631](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/475a85f8-5929-4758-a3ea-90b57e073aae)
 
-
+<p>
+ 
 After switching to the Admin Panel, you’ll see the same button allows you to switch back to Agent Panel.
 
+<p>
+
+![Screenshot 2024-05-25 191917](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/98e6d65b-7c85-4d88-bc14-ff745beaa655)
+
+<p>
 
 Stay on the Admin Panel and click on the Agents Tab.
+
+<p>
 
 
 Click on Roles.
 
+<p>
+
 
 Click on Add New Role.
+
+<p>
 
 
 Create a Supreme Admmin Role.
 
+<p>
+
 
 Click on the Permissions Tab.
+
+<p>
 
 
 Under Tickets, select all options.
 
+<p>
+
 
 Under Tasks, select all options.
 
+<p>
+
 
 Under Knowledgebase, select the option and finally click Add Role.
+
+<p>
 
 
 Click Departments.
 
 
+<p>
+
 Click on Add A New Department.
+
+<p>
 
 
 Fill in the name, select options and create the Department.
+
+<p>
 
 
 Click on Teams.
 
 
+<p>
+
 Click on Add Team.
+
+<p>
 
 
 Name the Team and create it.
 
+<p>
+
 
 Click on Members and add yourself to the team.
+
+<p>
 
 
 Under Settings, Users, Settings, uncheck Require Registration.
 
 
+<p>
+
+
 Click the Agents Tab and Add New Agent.
+
+
+<p>
+
 
 
 Create your first Agent.
 
 
+<p>
+
 Uncheck the boxes and set password.
+
+
+<p>
 
 
 Set Access Settings.
 
+<p>
+
 
 Click Create after selecting Team.
 
+<p>
+
 
 Go back to Agents and repeat steps for Agent 2.
+
+<p>
 
 
 Set Access Settings for Agent 2.
