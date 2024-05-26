@@ -346,12 +346,6 @@ Configure Help Topics.
 <p>
 
 
-![Screenshot 2024-05-25 224300](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/660d1431-82bb-4ddd-9aea-29df6c89dc4d)
-
-
-<p>
-
-
 Create Business Critical Outage and repeat the steps for the others. All Helps Topics are listed on the final slide.
 
 
