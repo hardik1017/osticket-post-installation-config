@@ -123,18 +123,23 @@ Create a Supreme Admmin Role.
 Click on the Permissions Tab.
 
 <p>
+ 
+![Screenshot 2024-05-25 194654](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/08d8b82c-f818-43de-a1f3-51af4316f2bc)
 
-![Screenshot 2024-05-25 194001](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/e0c7118e-dbf4-44bd-8d4e-b9afbd71c48e)
+
 
 Under Tickets, select all options.
 
 <p>
 
 
+
+
 Under Tasks, select all options.
 
 <p>
 
+![Screenshot 2024-05-25 194750](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/05636e8d-9d8f-43d5-9ba1-2df53815a53e)
 
 Under Knowledgebase, select the option and finally click Add Role.
 
