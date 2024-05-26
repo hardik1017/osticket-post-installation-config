@@ -264,41 +264,59 @@ Set Access Settings for Agent 2.
 
 <p>
 
+![Screenshot 2024-05-25 221210](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/14551a21-f016-4aea-aa36-cf49056ddf21)
+
+
 
 Create Users by going into the Agent Panel.
 
 <p>
+
+![Screenshot 2024-05-25 221254](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/c83aca7a-8867-4700-beb5-0f74b55d501a)
 
 
 Click the Users Tab.
 
 <p>
 
+![Screenshot 2024-05-25 221405](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/5291da3c-da84-4eb4-9508-f02ff34cfa58)
+
 
 Create a new User.
 
 <p>
+
+![Screenshot 2024-05-25 221456](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/e2dcefd7-e6b4-49f8-ba94-3c494ae7d88e)
+
 
 
 Click User Directory and repeat steps for 2nd User.
 
 <p>
 
+![Screenshot 2024-05-25 221559](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/f3c427a8-3a0c-4320-8a88-f2366b8fd16a)
+
 
 Navigate to Admin Panel, Manage, and SLA.
 
-
 <p>
+
+![Screenshot 2024-05-25 221718](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/b5a9c7e0-fad2-4b0e-a692-f4b1fed36ba8)
+
 
 Click on Add New SLA Plan.
 
 <p>
 
+![Screenshot 2024-05-25 221833](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/468c050d-51f3-416f-9beb-a0329b1542b4)
+
+<p>
 
 Name and set rules for 1st SLA.
 
-
 <p>
+
+![Screenshot 2024-05-25 222002](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/d01c45f2-414e-4355-8feb-76865bfc8d1a)
 
 Create rules for 2nd SLA.
 
