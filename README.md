@@ -101,20 +101,30 @@ Click on Roles.
 <p>
 
 
+![Screenshot 2024-05-25 193803](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/f127f869-19ce-434e-bdc3-895bb5f1d10e)
+
+
 Click on Add New Role.
 
 <p>
+
+
+![Screenshot 2024-05-25 193908](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/04748fc0-612c-4eb4-b159-619f02a3c3b3)
 
 
 Create a Supreme Admmin Role.
 
 <p>
 
+![Screenshot 2024-05-25 194001](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/fbc7d5de-c651-4be6-ab67-2fc9dc8e1445)
+
+
 
 Click on the Permissions Tab.
 
 <p>
 
+![Screenshot 2024-05-25 194001](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/e0c7118e-dbf4-44bd-8d4e-b9afbd71c48e)
 
 Under Tickets, select all options.
 
