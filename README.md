@@ -322,15 +322,42 @@ Create rules for 2nd SLA.
 
 <p>
 
+![Screenshot 2024-05-25 223941](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/91855e1e-24dd-4792-818c-3910aee508aa)
+
+
+<p>
 
 Create rules for 3rd SLA.
 
 <p>
 
+![Screenshot 2024-05-25 224030](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/dcc34011-c22e-4e99-be32-ee64ecd23578)
+
+
+<p>
+
+![Screenshot 2024-05-25 224300](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/8ff67fc8-c051-48ff-aac9-4e4fd4c1c2ae)
+
 
 Configure Help Topics.
 
+<p>
+
+
+![Screenshot 2024-05-25 224300](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/660d1431-82bb-4ddd-9aea-29df6c89dc4d)
+
+
+<p>
+
 
 Create Business Critical Outage and repeat the steps for the others. All Helps Topics are listed on the final slide.
+
+
+<p>
+
+![Screenshot 2024-05-25 224433](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/d67b42f9-6ae9-46c9-93ce-3a1d45658891)
+
+
+
 
 
