@@ -336,6 +336,8 @@ Create rules for 3rd SLA.
 
 <p>
 
+Configure Help Topics.
+
 ![Screenshot 2024-05-25 224300](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/8ff67fc8-c051-48ff-aac9-4e4fd4c1c2ae)
 
 
