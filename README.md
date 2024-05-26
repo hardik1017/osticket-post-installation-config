@@ -67,25 +67,113 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Login as User Admin. Notice on the top right there’s an Admin Panel button. Click on it to switch into the Admin Panel.
+
+
+After switching to the Admin Panel, you’ll see the same button allows you to switch back to Agent Panel.
+
+
+Stay on the Admin Panel and click on the Agents Tab.
+
+
+Click on Roles.
+
+
+Click on Add New Role.
+
+
+Create a Supreme Admmin Role.
+
+
+Click on the Permissions Tab.
+
+
+Under Tickets, select all options.
+
+
+Under Tasks, select all options.
+
+
+Under Knowledgebase, select the option and finally click Add Role.
+
+
+Click Departments.
+
+
+Click on Add A New Department.
+
+
+Fill in the name, select options and create the Department.
+
+
+Click on Teams.
+
+
+Click on Add Team.
+
+
+Name the Team and create it.
+
+
+Click on Members and add yourself to the team.
+
+
+Under Settings, Users, Settings, uncheck Require Registration.
+
+
+Click the Agents Tab and Add New Agent.
+
+
+Create your first Agent.
+
+
+Uncheck the boxes and set password.
+
+
+Set Access Settings.
+
+
+Click Create after selecting Team.
+
+
+Go back to Agents and repeat steps for Agent 2.
+
+
+Set Access Settings for Agent 2.
+
+
+Create Users by going into the Agent Panel.
+
+
+Click the Users Tab.
+
+
+Create a new User.
+
+
+Click User Directory and repeat steps for 2nd User.
+
+
+Navigate to Admin Panel, Manage, and SLA.
+
+
+Click on Add New SLA Plan.
+
+
+Name and set rules for 1st SLA.
+
+
+Create rules for 2nd SLA.
+
+
+Create rules for 3rd SLA.
+
+
+Configure Help Topics.
+
+
+Create Business Critical Outage and repeat the steps for the others. All Helps Topics are listed on the final slide.
+
+
