@@ -171,25 +171,39 @@ Fill in the name, select options and create the Department.
 
 <p>
 
+![Screenshot 2024-05-25 210559](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/c9469a75-de4d-41eb-94a3-e3574c7ceb6c)
+
+
 
 Click on Teams.
 
-
 <p>
+
+![Screenshot 2024-05-25 210652](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/ad74753f-69dd-45ec-836d-79eaff46e905)
+
 
 Click on Add Team.
 
 <p>
+
+![Screenshot 2024-05-25 210752](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/728615cd-1434-4b6b-9d32-40b17c679fa2)
+
 
 
 Name the Team and create it.
 
 <p>
 
+![Screenshot 2024-05-25 210830](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/c49516bb-cecf-40ab-bd94-66e739124357)
+
+
 
 Click on Members and add yourself to the team.
 
 <p>
+
+![Screenshot 2024-05-25 210933](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/b3d52f77-dce2-48cf-b6c2-fa0b0414cb75)
+
 
 
 Under Settings, Users, Settings, uncheck Require Registration.
@@ -197,11 +211,17 @@ Under Settings, Users, Settings, uncheck Require Registration.
 
 <p>
 
+![Screenshot 2024-05-25 211122](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/bcfd4115-badf-4af4-bd21-a6cefaa58dc8)
+
+
 
 Click the Agents Tab and Add New Agent.
 
 
 <p>
+
+![Screenshot 2024-05-25 211241](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/c1ab5567-0d08-4e48-aa7c-56d75fc09dca)
+
 
 
 
@@ -210,25 +230,34 @@ Create your first Agent.
 
 <p>
 
+![Screenshot 2024-05-25 211513](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/39d2d111-6c20-4f57-82dd-5424bd19ecf8)
+
+
 Uncheck the boxes and set password.
 
-
 <p>
+
+![Screenshot 2024-05-25 211555](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/6dbe191d-5f98-4a8b-8e02-20d95b9b0bfb)
 
 
 Set Access Settings.
 
 <p>
 
+![Screenshot 2024-05-25 211750](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/83cb4ac2-ce85-417f-b947-c246a1526c47)
 
 Click Create after selecting Team.
 
 <p>
 
+![Screenshot 2024-05-25 211914](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/04e3a2df-a0de-4f6e-816c-d4eb882368d1)
+
 
 Go back to Agents and repeat steps for Agent 2.
 
 <p>
+ 
+![Screenshot 2024-05-25 212010](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/6699e967-d5e7-4863-96b4-0093d1d1f6f0)
 
 
 Set Access Settings for Agent 2.
