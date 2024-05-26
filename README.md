@@ -204,32 +204,52 @@ Go back to Agents and repeat steps for Agent 2.
 
 Set Access Settings for Agent 2.
 
+<p>
+
 
 Create Users by going into the Agent Panel.
+
+<p>
 
 
 Click the Users Tab.
 
+<p>
+
 
 Create a new User.
 
+<p>
+
 
 Click User Directory and repeat steps for 2nd User.
+
+<p>
 
 
 Navigate to Admin Panel, Manage, and SLA.
 
 
+<p>
+
 Click on Add New SLA Plan.
+
+<p>
 
 
 Name and set rules for 1st SLA.
 
 
+<p>
+
 Create rules for 2nd SLA.
+
+<p>
 
 
 Create rules for 3rd SLA.
+
+<p>
 
 
 Configure Help Topics.
