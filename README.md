@@ -133,27 +133,38 @@ Under Tickets, select all options.
 <p>
 
 
+![Screenshot 2024-05-25 194750](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/05636e8d-9d8f-43d5-9ba1-2df53815a53e)
 
 
 Under Tasks, select all options.
 
 <p>
 
-![Screenshot 2024-05-25 194750](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/05636e8d-9d8f-43d5-9ba1-2df53815a53e)
+
+![Screenshot 2024-05-25 195337](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/97028602-50c3-491c-9bfe-334a4f4c3b2c)
+
 
 Under Knowledgebase, select the option and finally click Add Role.
 
 <p>
 
+![Screenshot 2024-05-25 195434](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/5e0c31c9-6efb-4646-8196-bd590ece206b)
+
+
 
 Click Departments.
 
-
 <p>
+
+![Screenshot 2024-05-25 195511](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/72319029-be35-4c40-a636-301b3d9410c7)
+
 
 Click on Add A New Department.
 
 <p>
+
+![Screenshot 2024-05-25 195553](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/c633f71c-c87c-4188-bda8-8590a69e6b2c)
+
 
 
 Fill in the name, select options and create the Department.
